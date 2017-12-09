@@ -5,4 +5,8 @@
 	<groupId>br.edu.unidavi.webdev.poo</groupId>
 	<artifactId>solution</artifactId>
 	<version>00.00.02-SNAPSHOT</version>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.report.outputEncoding>UTF-8</project.report.outputEncoding>
+	</properties>
 </project>
