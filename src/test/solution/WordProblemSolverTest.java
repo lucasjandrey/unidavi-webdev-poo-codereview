@@ -35,13 +35,13 @@ public class WordProblemSolverTest {
         assertEquals(-11, solver.solve("What is -1 plus -10?"));
     }
 
-    @Ignore("Remove to run test")
+   
     @Test
     public void testSingleAdditionOfLargeNumbers() {
         assertEquals(45801, solver.solve("What is 123 plus 45678?"));
     }
 
-    @Ignore("Remove to run test")
+   
     @Test
     public void testSingleSubtraction() {
         assertEquals(16, solver.solve("What is 4 minus -12?"));
